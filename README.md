@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72CE5&width=500&lines=Fulloch+AUTOSWAP+T3RN+%5B+SILENT+AIRDROP+%5D)
+
 ```bash
 git clone https://github.com/elmeerasay/silentairdrop.git
 ```
